@@ -1,5 +1,8 @@
 ## Hi there 👋, my name is Vyacheslav Boytsun
-Full-stack Developer
+### Full-stack Developer
+
+- I've just started my journey to Full-stack Development
+- I'm currently learning HTML, CSS, Python and other helpful tools
 <!--
 **slavtas/slavtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
